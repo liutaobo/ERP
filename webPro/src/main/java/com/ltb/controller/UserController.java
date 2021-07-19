@@ -8,4 +8,7 @@ public class UserController {
 		
 	}
 	
+	public int test2(){
+		return 2;
+	}
 }

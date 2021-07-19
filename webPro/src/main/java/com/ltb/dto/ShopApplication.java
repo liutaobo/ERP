@@ -5,4 +5,8 @@ public class ShopApplication {
 		System.out.println("merge");
 	}
 	
+	public void newFun(){
+		int i=0;
+	}
+	
 }

@@ -18,6 +18,10 @@ public class UserController {
 	}
 	
 	public int test2(){
+		if(10<8){
+			int a = 9-3;
+		}
+			
 		return 2;
 	}
 	

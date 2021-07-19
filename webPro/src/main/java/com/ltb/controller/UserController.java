@@ -28,4 +28,6 @@ public class UserController {
 	public int test3(){
 		return 3;
 	}
+	
+	public int test4(){return 2;}
 }

@@ -31,6 +31,7 @@ public class AsynchCfg implements AsyncConfigurer
 		return executor();
 	}
 	
+	
 	@Override
 	public AsyncUncaughtExceptionHandler getAsyncUncaughtExceptionHandler() {
 		return (a,b,c)->{};

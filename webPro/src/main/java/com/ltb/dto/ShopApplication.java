@@ -14,5 +14,9 @@ public class ShopApplication {
 	}
 	
 	
+	public void init(){
+		
+	}
+	
 	
 }

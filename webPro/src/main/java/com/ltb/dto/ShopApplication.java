@@ -18,7 +18,6 @@ public class ShopApplication {
 		
 	}
 	
-	
 	public int call(){
 		return 12;
 	}

@@ -9,4 +9,8 @@ public class ShopApplication {
 		int i=0;
 	}
 	
+	public int add(){
+		return 1;
+	}
+	
 }

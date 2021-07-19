@@ -8,6 +8,7 @@ public class Book implements InitializingBean{
 	private String id;
 	private String name;
 	private double price;
+	private String title;
 	@Override
 	public void afterPropertiesSet() throws Exception {
 		this.id="1";

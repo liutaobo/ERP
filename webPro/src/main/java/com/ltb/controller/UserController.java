@@ -11,6 +11,9 @@ public class UserController {
 		}
 		if(a<0)
 			a++;
+		if(a>=0){
+			a--;
+		}
 		if(a==0){
 			int b=9;
 		}

@@ -21,7 +21,6 @@ public class UserController {
 		if(10<8){
 			int a = 9-3;
 		}
-			
 		return 2;
 	}
 	

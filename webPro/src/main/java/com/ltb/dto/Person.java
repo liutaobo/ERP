@@ -4,6 +4,6 @@ import org.springframework.web.servlet.DispatcherServlet;
 
 public class Person {
 	public static void main(String[] args) {
-		DispatcherServlet a;
+		DispatcherServlet a = null;
 	}
 }

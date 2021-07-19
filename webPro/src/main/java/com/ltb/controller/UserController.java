@@ -14,6 +14,9 @@ public class UserController {
 		if(a>=0){
 			System.out.println("this is the test!");
 		}
+		if(a==0){
+			return;
+		}
 	}
 	
 	public int test1(){

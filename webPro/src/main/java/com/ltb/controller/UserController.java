@@ -12,7 +12,7 @@ public class UserController {
 		if(a<0)
 			a++;
 		if(a>=0){
-			System.out.println("this is the test!");
+			a--;
 		}
 		if(a==0){
 			return;

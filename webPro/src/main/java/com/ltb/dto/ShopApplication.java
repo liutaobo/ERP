@@ -14,5 +14,12 @@ public class ShopApplication {
 	}
 	
 	
+	public void init(){
+		
+	}
 	
+	
+	public int call(){
+		return 12;
+	}
 }

@@ -5,7 +5,14 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class UserController {
 	public void login(){
-		
+		int a=0;
+		if(a>0){
+			System.out.println(0);
+		}
+	}
+	
+	public int test1(){
+		return 1;
 	}
 	
 	public int test2(){

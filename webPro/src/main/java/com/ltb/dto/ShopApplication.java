@@ -13,4 +13,8 @@ public class ShopApplication {
 		return 1;
 	}
 	
+	public int muti(){
+		return 2;
+	}
+	
 }

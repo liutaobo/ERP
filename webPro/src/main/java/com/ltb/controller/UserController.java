@@ -9,14 +9,6 @@ public class UserController {
 		if(a>0){
 			System.out.println(0);
 		}
-		if(a<0)
-			a++;
-		if(a>=0){
-			a--;
-		}
-		if(a==0){
-			int b=9;
-		}
 	}
 	
 	public int test1(){
